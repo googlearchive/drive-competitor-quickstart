@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompetitorQuickstart/CompetitorQuickstart.iml" filepath="$PROJECT_DIR$/CompetitorQuickstart/CompetitorQuickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompetitorQuickstartProject.iml" filepath="$PROJECT_DIR$/CompetitorQuickstartProject.iml" />
+    </modules>
+  </component>
+</project>
+
